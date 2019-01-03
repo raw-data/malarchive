@@ -60,17 +60,25 @@ _Note_: some samples might fall into multiple categories, but just one is chosen
 
 | Family | Type | Link |
 |:---:| :---:|:---:|
+|imminentrat|rat|[samples](rat/imminentrat)
+|tvrat|rat|[samples](rat/tvrat)
 |adwind|rat|[samples](rat/adwind)
 |backnet|rat|[samples](rat/backnet)
 |njrat|rat|[samples](rat/njrat)
+|xperrat|rat|[samples](rat/xperrat)
+|remcosrat|rat|[samples](rat/remcosrat)
 |hawkeye|keylogger|[samples](keylogger/hawkeye)
+|lokibot|stealer|[samples](stealer/lokibot)
 |formbook|stealer|[samples](stealer/formbook)
+|kpot|stealer|[samples](stealer/kpot)
 |azorult|stealer|[samples](stealer/azorult)
 |agenttesla|spyware|[samples](spyware/agenttesla)
+|gootkit|banker|[samples](banker/gootkit)
+|nymaim|banker|[samples](banker/nymaim)
+|danabot|banker|[samples](banker/danabot)
 |kardonstealer|downloader-dropper|[samples](downloader-dropper/kardonstealer)
 |ascentorloader|downloader-dropper|[samples](downloader-dropper/ascentorloader)
 |amadey|downloader-dropper|[samples](downloader-dropper/amadey)
-
 
 # Disclaimer
 - **All files in this repository are malware!**
