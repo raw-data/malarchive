@@ -89,7 +89,7 @@ _Note_: some samples might fall into multiple categories, but just one is chosen
 |danabot|banker|[samples](banker/danabot)
 |ramnit|banker|[samples](banker/ramnit)
 |nymaim|banker|[samples](banker/nymaim)
-|cypherit|banker|[samples](crypter/cypherit)
+|cypherit|crypter|[samples](crypter/cypherit)
 
 # Disclaimer
 - **All files in this repository are malware!**
